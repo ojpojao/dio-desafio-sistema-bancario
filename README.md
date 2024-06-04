@@ -4,21 +4,17 @@
 
 # Python AI Backend Developer
 
-## Desafio de projeto: _Otimizando o Sistema Bancário com Funções Python_
+## Desafio de projeto: _Modelando o sistema bancário em POO com Python_
 
-Este repositório é um dos projetos do módulo _Dominando Python e suas Estruturas de Dados_ do Python AI Backend Developer.
-Esta á versão [v2.0.0](https://github.com/ojpojao/dio-desafio-sistema-bancario/tree/v2.0.0) do módulo.
+Este repositório é um dos projetos do módulo _Orientação a Objetos e Boas Práticas em Python_ do Python AI Backend Developer.
+Esta á versão [v3.0.0](https://github.com/ojpojao/dio-desafio-sistema-bancario/tree/v3.0.0) do módulo.
 
-A proposta, desta vez, foi pegar as funcionalidades de _depositar_, _sacar_ e _imprimir extrato_ e colocá-las dentro de funções. Além disso, foram acrescentadas as funcionalidades de _adicionar usuários_, _adicionar conta_ e _listar contas_. Porém, estas novas funcionalidades ainda não possuem qualquer vinculação com as funcionalidades anteriores(será desafio mais adiante).
+A proposta, desta vez, foi utilizar orientação a objetos.
 
 ### Para executar o projeto
 ```bash
 git clone https://github.com/ojpojao/dio-desafio-sistema-bancario.git
 cd dio-desafio-sistema-bancario
-git checkout v2.0.0
-python3 -m venv venv
-source venv/bin/activate
-pip install -U pip
-pip install -r requirements.txt
+git checkout v3.0.0
 python desafio.py
 ```
